@@ -1,5 +1,5 @@
 id;name;orcid;employer;affiliated in;involved in
-P001;Tobias Hodel;https://orcid.org/0000-0002-2071-6407;G002;"G018; G054";"PR002; PR007"
+P001;Tobias Hodel;https://orcid.org/0000-0002-2071-6407;G002;"G018; G054";"PR002; PR004; PR007"
 P002;Rita Gautschy;https://orcid.org/0000-0002-5470-8720;"G011; G012";;
 P003;Peter Fornaro;https://orcid.org/0000-0003-1485-4923;G001;"G011; G018";PR001
 P004;Lukas Rosenthaler;https://orcid.org/0000-0003-1681-4036;G001;;PR005
@@ -14,55 +14,55 @@ P012;Rico Sennrich;https://orcid.org/0000-0002-1438-4741;G015;;
 P013;Lucas Burkart;https://orcid.org/0000-0002-9011-5113;G057;;
 P014;Moniek Kuijpers;https://orcid.org/0000-0002-3676-5879;G001;;PR006
 P015;Alassi Sepideh;https://orcid.org/0000-0002-5627-9501;G001;;PR005
-P016;Vera Chiquet;https://orcid.org/0000-0001-5925-2956;G001;G018;PR001
-P017;Moritz Mähr;https://orcid.org/0000-0002-1367-1618;G057;G002;
+P016;Vera Chiquet;https://orcid.org/0000-0001-5925-2956;G001;"G018; G054";PR001
+P017;Moritz Mähr;https://orcid.org/0000-0002-1367-1618;G057;"G002; G054";
 P018;Elena Spadini;https://orcid.org/0000-0002-4522-2833;G014;G002;
 P019;Yannick Rochat;https://orcid.org/0000-0002-9588-9855;G016;;PR002
 P020;Cristina Grisot;https://orcid.org/0000-0003-0684-4442;"G012; G022";;
 P021;Simon Gabay;https://orcid.org/0000-0001-9094-4475;G004;;
-P022;Thomas Hänsli;;G010;;
-P023;Florian Kräutli;;G010;;
-P024;Eugen Pfister;;G027;G002;PR002
+P022;Thomas Hänsli;https://orcid.org/0000-0001-7818-5605;G010;;
+P023;Florian Kräutli;https://orcid.org/0000-0001-9039-0900;G010;;
+P024;Eugen Pfister;https://orcid.org/0000-0003-3422-4697;G027;G002;PR002
 P025;Grégoire Malland;;G052;;
-P026;Davide Rodogno;;G052;;
-P027;Maud Ehrmann;;G006;;PR003
-P028;Ranjodh Singh Dhaliwal;;G001;;
-P029;"Rosa Lavelle-Hill  ";;G001;;
-P030;Enrico Natale;https://orcid.org/0000-0002-0967-5931;"G030; G031";G054;
+P026;Davide Rodogno;https://orcid.org/0000-0002-0947-4515;G052;;
+P027;Maud Ehrmann;https://orcid.org/0000-0001-9900-2193;G006;;PR003
+P028;Ranjodh Singh Dhaliwal;https://orcid.org/0000-0002-9826-0614;G001;;
+P029;"Rosa Lavelle-Hill  ";https://orcid.org/0000-0002-1767-9828;G001;;
+P030;Enrico Natale;https://orcid.org/0000-0002-0967-5931;G031;G054;
 P031;Julien A. Raemy;https://orcid.org/0000-0002-4711-5759;;"G002; G049; G054";PR001
-P032;Katharina Böhmer;;G002;;
+P032;Katharina Böhmer;https://orcid.org/0009-0003-7269-6780;G002;;
 P033;Sebastian Borkowski;;G002;;
 P034;Joseph Chataignon;;G002;;
 P035;Peter Dängeli;https://orcid.org/0000-0003-3576-7474;G002;;
 P036;Adrian Demleitner;https://orcid.org/0000-0001-9918-7300;G002;G054;"PR001; PR002"
 P037;Sebastian Flick;;G002;;
-P038;Stephen Hart;;G002;;PR007
-P039;Ursula Loosli;;G002;;
-P040;Christa Schneider;;G002;;
-P041;Dominic Weber;;G002;;
-P042;Katharina Scheller;;G002;;
+P038;Stephen Hart;https://orcid.org/0009-0003-6556-5512;G002;;PR007
+P039;Ursula Loosli;https://orcid.org/0000-0002-1480-315X;G002;;
+P040;Christa Schneider;https://orcid.org/0000-0001-9741-0601;G002;;
+P041;Dominic Weber;https://orcid.org/0000-0002-9265-3388;G002;G054;
+P042;Katharina Scheller;https://orcid.org/0000-0002-6528-9445;G002;;
 P043;Jonas Widmer;;G002;;
-P044;;;;;
-P045;;;;;
-P046;;;;;
-P047;;;;;
-P048;;;;;
-P049;;;;;
-P050;;;;;
-P051;;;;;
-P052;;;;;
-P053;;;;;
-P054;;;;;
-P055;;;;;
-P056;;;;;
-P057;;;;;
-P058;;;;;
-P059;;;;;
-P060;;;;;
-P061;;;;;
-P062;;;;;
-P063;;;;;
-P064;;;;;
+P044;Yangying Mao;;G002;;
+P045;Addrich Mauch;;G002;;
+P046;Gaétan Muck;;G002;;
+P047;Ismail Prada Ziegler;https://orcid.org/0000-0003-4229-8688;G002;;
+P048;Florian Matter;;;G002;
+P049;Vlad Atanasiu;https://orcid.org/0000-0001-7457-7089;;G002;
+P050;Tao Fan;https://orcid.org/0000-0002-6846-2901;;G002;
+P051;Sonja Gasser;https://orcid.org/0000-0003-0112-4841;;G002;
+P052;Rachel Huber;https://orcid.org/0000-0002-6022-5354;;G002;
+P053;Katarzyna Langenegger;https://orcid.org/0000-0003-1244-3346;;G002;PR004
+P054;Laurent Pugin;https://orcid.org/0000-0002-9525-4331;;G002;
+P055;Annemieke C. Romein;https://orcid.org/0000-0003-3682-0126;;G002;
+P056;Michael Schonhardt;https://orcid.org/0000-0002-2750-1900;;G002;
+P057;Jan Baumann;;G031;G054;
+P058;Laura Bitterli;;;G054;
+P059;Nicolas Chachereau;;G057;G054;
+P060;Lorenz Dändliker;;;G054;
+P061;Moritz J. Feichtinger;https://orcid.org/0000-0003-1260-8884;G057;G054;
+P062;Pascal Föhr;https://orcid.org/0009-0005-0887-2131;;G054;
+P063;Yvonne Fuchs;https://orcid.org/0009-0007-4545-606X;G057;G054;
+P064;Martin Grandjean;https://orcid.org/0000-0003-3184-3943;G016;G054;PR003
 P065;;;;;
 P066;;;;;
 P067;;;;;
