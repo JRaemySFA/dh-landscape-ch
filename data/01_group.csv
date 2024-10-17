@@ -1,5 +1,5 @@
 id;name;type;spatial;url;focus;member of;parent;based in
-G001;Digital Humanities Lab (DHLab), Universität Basel;academic;Switzerland;https://dhlab.philhist.unibas.ch/;"3D; Digitisation; IIIF; Linked Data; Photogrammetry; Cultural Heritage";G018;G057;
+G001;Digital Humanities Lab (DHLab), Universität Basel;academic;Switzerland;https://dhlab.philhist.unibas.ch/;"3D; Digitisation; IIIF; Linked Data; Photogrammetry; Cultural Heritage; Shared Reading";G018;G057;
 G002;Walter Benjamin Kolleg / Digital Humanities, Universität Bern;academic;Switzerland;https://www.dh.unibe.ch/;"HTR; Game Studies; Linked Data; History";G018;G064;
 G003;Digital Visual Studies, Universität Zürich;academic;Switzerland;https://www.dvs.uzh.ch/;"Art History; Computer Vision; NLP";G018;G058;
 G004;Chaire d'humanités numériques, Université de Genève;academic;Switzerland;https://www.unige.ch/lettres/humanites-numeriques/;"HTR; IIIF, Art History; Computer Vision";"G018; G025";G073;
@@ -72,3 +72,8 @@ G070;Luxembourg Centre For Contemporary and Digital History (C2DH);academic;Luxe
 G071;Inventar der Fundmünzen der Schweiz (IFS);research infrastructure;Switzerland;https://www.fundmuenzen.ch/;;;G030;
 G072;Diplomatische Dokumente der Schweiz (Dodis);research infrastructure;Switzerland;https://www.dodis.ch/;;;G030;
 G073;Université de Genève;academic;Switzerland;https://unige.ch/;;G012;;
+G074;Hochschule für Gestaltung und Kunst Basel FHNW;academic;Switzerland;https://www.fhnw.ch/de/die-fhnw/hochschulen/hgk;;G012;;
+G075;Staatsarchiv Basel-Stadt;glam;Switzerland;https://staatsarchiv.bs.ch/;;;;
+G076;Music Encoding Initiative (MEI);association;International;https://music-encoding.org/;;;;
+G077;Répertoire International des Sources Musicales (RISM) Digital Center;research infrastructure;International;https://rism.digital/;;;;
+G078;Bibliotheca Hertziana - Max Planck Institute for Art History;research infrastructure;Cross-national;https://www.biblhertz.it/;;;;
