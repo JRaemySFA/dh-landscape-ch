@@ -1,5 +1,5 @@
 id;name;orcid;employer;affiliated in;involved in
-P001;Tobias Hodel;https://orcid.org/0000-0002-2071-6407;G002;"G018; G054";"PR002; PR004; PR007"
+P001;Tobias Hodel;https://orcid.org/0000-0002-2071-6407;G002;"G018; G053; G054";"PR002; PR004; PR007"
 P002;Rita Gautschy;https://orcid.org/0000-0002-5470-8720;"G011; G012";G061;
 P003;Peter Fornaro;https://orcid.org/0000-0003-1485-4923;G001;"G011; G018";PR001
 P004;Lukas Rosenthaler;https://orcid.org/0000-0003-1681-4036;G001;;PR005
@@ -34,7 +34,7 @@ P032;Katharina Böhmer;https://orcid.org/0009-0003-7269-6780;G002;;
 P033;Sebastian Borkowski;;G002;;
 P034;Joseph Chataignon;;G002;;
 P035;Peter Dängeli;https://orcid.org/0000-0003-3576-7474;G002;;
-P036;Adrian Demleitner;https://orcid.org/0000-0001-9918-7300;G002;G054;"PR001; PR002"
+P036;Adrian Demleitner;https://orcid.org/0000-0001-9918-7300;"G002; G027";G054;"PR001; PR002"
 P037;Sebastian Flick;;G002;;
 P038;Stephen Hart;https://orcid.org/0009-0003-6556-5512;G002;;PR007
 P039;Ursula Loosli;https://orcid.org/0000-0002-1480-315X;G002;;
@@ -78,13 +78,13 @@ P076;Michael Piotrowski;https://orcid.org/0000-0003-3307-5386;G016;G054;
 P077;Tim Rüdiger;https://orcid.org/0009-0004-5148-8242;G065;G054;
 P078;Elias Kreyenbühl;;G065;G001;
 P079;Raphaëlle Ruppen Coutaz;https://orcid.org/0000-0002-3503-4978;G016;G054;
-P080;;;;;
-P081;;;;;
-P082;;;;;
-P083;;;;;
-P084;;;;;
-P085;;;;;
-P086;;;;;
+P080;Eliane Schmid;https://orcid.org/0000-0001-7904-3908;G070;G054;
+P081;Ina Senif;https://orcid.org/0000-0003-2419-42521;G057;G054;
+P082;Christiane Sibille;https://orcid.org/0000-0003-3689-2154;G067;"G054; G061";
+P083;Johannes Wahl;;G067;G054;
+P084;Ulrike Felsing;;G027;G002;PR001
+P085;Rahel C. Ackermann;;G070;G061;
+P086;Sacha Zala;;;"G053; G061";
 P087;;;;;
 P088;;;;;
 P089;;;;;

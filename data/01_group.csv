@@ -1,20 +1,20 @@
 id;name;type;spatial;url;focus;member of;parent;based in
 G001;Digital Humanities Lab (DHLab), Universität Basel;academic;Switzerland;https://dhlab.philhist.unibas.ch/;"3D; Digitisation; IIIF; Linked Data; Photogrammetry; Cultural Heritage";G018;G057;
-G002;Walter Benjamin Kolleg / Digital Humanities, Universität Bern;academic;Switzerland;https://www.dh.unibe.ch/;"HTR; Game Studies; Linked Data; History";G018;;
+G002;Walter Benjamin Kolleg / Digital Humanities, Universität Bern;academic;Switzerland;https://www.dh.unibe.ch/;"HTR; Game Studies; Linked Data; History";G018;G064;
 G003;Digital Visual Studies, Universität Zürich;academic;Switzerland;https://www.dvs.uzh.ch/;"Art History; Computer Vision; NLP";G018;G058;
-G004;Chaire d'humanités numériques, Université de Genève;academic;Switzerland;https://www.unige.ch/lettres/humanites-numeriques/;"HTR; IIIF, Art History; Computer Vision";"G018; G025";;
+G004;Chaire d'humanités numériques, Université de Genève;academic;Switzerland;https://www.unige.ch/lettres/humanites-numeriques/;"HTR; IIIF, Art History; Computer Vision";"G018; G025";G073;
 G005;Institut des humanités digitales (DHI), EPFL;academic;Switzerland;https://www.epfl.ch/schools/cdh/fr/recherche/digital-humanities-institute-dhi/;;;G059;
 G006;Laboratoire d'humanités digitales (DHLAB), EPFL;academic;Switzerland;https://www.epfl.ch/labs/dhlab/;"ML; Computer Vision; Geography; History";;G005;
 G007;Digital and Cognitive Musicology Lab (DCML), EPFL;academic;Switzerland;https://www.epfl.ch/labs/dcml/;"Musicology; Acoustics";;G005;
 G008;Laboratory for Experimental Museology (eM+), EPFL;academic;Switzerland;https://www.epfl.ch/labs/emplus/;"Museology; Cultural Heritage; Linked Data";;G005;
 G009;Laboratoires d'histoire des sciences et des techniques (LHST), EPFL;academic;Switzerland;https://www.epfl.ch/labs/lhst/;STS;;G005;
-G010;Swiss Art Research Infrastructure (SARI), Universität Zürich;research infrastructure;Switzerland;https://www.sari.uzh.ch/;"Art History; Architecture; IIIF; Linked Data; Design Research";;G058;
+G010;Swiss Art Research Infrastructure (SARI), Universität Zürich;research infrastructure;Switzerland;https://www.sari.uzh.ch/;"Art History; Architecture; IIIF; Linked Data; Design Research";;"G058; G063";
 G011;Swiss National Data and Service Center for the Humanities (DaSCH);research infrastructure;Switzerland;https://www.dasch.swiss/;"IIIF; Linked Data; Digital Preservation";G019;;G057
-G012;The Swiss Digital Research Infrastructure for arts and humanities (DARIAH-CH);consortium;Switzerland;https://www.dariah.ch/;;G013;;G011
+G012;The Swiss Digital Research Infrastructure for arts and humanities (DARIAH-CH);consortium;Switzerland;https://www.dariah.ch/;;;G013;G011
 G013;Digital Research Infrastructure for the Arts and Humanities (DARIAH-EU);eric;Europe;https://www.dariah.eu/;;;;
 G014;Research and Infrastructure Support (RISE), Universität Basel;research infrastructure;Basel;https://rise.unibas.ch/;;;;G001
 G015;Linguistic Research Infrastructure (LiRI), Universität Zürich;research infrastructure;Switzerland;https://www.liri.uzh.ch/;Linguistics;;G058;
-G016;Université de Lausanne;academic;Switzerland;https://www.unil.ch/;;;;
+G016;Université de Lausanne;academic;Switzerland;https://www.unil.ch/;;G012;;
 G017;Institut des sciences du langage (ISLa), Université de Neuchâtel;academic;Switzerland;;"Philology; Linguistics";;;G056
 G018;DHCH Network;association;Switzerland;"https://dh-ch.ch/ ";;;;
 G019;International Image Interoperability Framework Consortium (IIIF-C);consortium;International;https://iiif.io/community/consortium;"IIIF; API; Annotation; Standardisation; Image; Video; 3D";;;
@@ -25,10 +25,10 @@ G023;Common Language Resources and Technology Infrastructure (CLARIN ERIC);eric;
 G024;European Association for Digital Humanities (EADH);association;Europe;https://eadh.org/;;G032;;
 G025;Association francophone des humanités numériques/digitales (Humanistica);association;Cross-national;https://www.humanisti.ca/;;G032;;
 G026;Digital Humanities im deutschsprachigen Raum (DHd);association;Cross-national;https://dig-hum.de/;;"G024; G032";;
-G027;Hochschule der Künste Bern (HKB);academic;Switzerland;https://www.hkb.bfh.ch/;;;;
+G027;Hochschule der Künste Bern (HKB);academic;Switzerland;https://www.hkb.bfh.ch/;;G012;;
 G028;Laboratoire d'étude des sciences et des techniques (STSlab), Université de Lausanne;academic;Switzerland;https://www.unil.ch/stslab/;STS;"G016; G029";;
 G029;Swiss Association for the Studies of Science, Technology and Society (STS-CH);association;Switzerland;https://sts-ch.org/;STS;;;
-G030;Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW);association;Switzerland;https://www.sagw.ch/;"Humanities; Social Sciences";;;
+G030;Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW);association;Switzerland;https://www.sagw.ch/;"Humanities; Social Sciences";G012;;
 G031;Infoclio;association;Switzerland;https://infoclio.ch/;History;G025;"G030; G053";
 G032;Alliance of Digital Humanities Organizations (ADHO);association;International;https://adho.org/;;;;
 G033;Associazione per l'informatica umanistica e la cultura digitale (AIUCD);association;Italy;https://www.aiucd.it/;;G024;;
@@ -54,9 +54,21 @@ G052;Centre for Digital Humanities and Multilateralism, Geneva Graduate Institut
 G053;Schweizerische Gesellschaft für Geschichte (SGG);association;Switzerland;https://www.sgg-ssh.ch/;History;;;
 G054;Digital History Network Switzerland;association;Switzerland;https://www.digitalhistorynetwork.ch;Digital History;;;
 G055;FORS - Swiss Centre of Expertise in the Social Sciences;research infrastructure;Switzerland;https://forscenter.ch/;"Social Sciences; STS";;;G016
-G056;Université de Neuchâtel;academic;Switzerland;https://www.unine.ch/;;;;
-G057;Universität Basel;academic;Switzerland;https://www.unibas.ch/;;;;
-G058;Universität Zürich;academic;Switzerland;"https://uzh.ch/ ";;;;
-G059;Ecole Polytechnique Fédérale de Lausanne (EPFL);academic;Switzerland;https://www.epfl.ch/;;;;
+G056;Université de Neuchâtel;academic;Switzerland;https://www.unine.ch/;;G012;;
+G057;Universität Basel;academic;Switzerland;https://www.unibas.ch/;;G012;;
+G058;Universität Zürich;academic;Switzerland;"https://uzh.ch/ ";;G012;;
+G059;Ecole Polytechnique Fédérale de Lausanne (EPFL);academic;Switzerland;https://www.epfl.ch/;;G012;;
 G060;Eidgenössische Technische Hochschule Zürich (ETHZ);academic;Switzerland;https://ethz.ch/;;;;
-G061;Social Sciences & Humanities Open Cluster Switzerland (SSHOC-CH);association;Switzerland;;;;;
+G061;Social Sciences & Humanities Open Cluster Switzerland (SSHOC-CH);association;Switzerland;"https://sshoc.ch/ ";;;;
+G062;Universität Luzern;academic;Switzerland;https://www.unilu.ch/;;;;
+G063;Schweizerische Institut für Kunstwissenschaft (SIK-ISEA);research infrastructure;Switzerland;https://www.sik-isea.ch/;;;G030;
+G064;Universität Bern;academic;Switzerland;https://www.unibe.ch/;;G012;;
+G065;Zentralbibliothek Zürich (ZB);glam;Switzerland;https://www.zb.uzh.ch/;;;G058;
+G066;Schweizerisches Bundesarchiv (BAR);glam;Switzerland;https://www.bar.admin.ch/;;;;
+G067;ETH-Bibliothek;glam;Switzerland;https://library.ethz.ch/;;;G060;
+G068;Staatsarchiv Solothurn;glam;Switzerland;https://so.ch/staatskanzlei/staatsarchiv/;;;;
+G069;Staatsarchiv Schwyz;glam;Switzerland;https://www.sz.ch/kultur/;;;;
+G070;Luxembourg Centre For Contemporary and Digital History (C2DH);academic;Luxembourg;https://www.c2dh.uni.lu/;;;;
+G071;Inventar der Fundmünzen der Schweiz (IFS);research infrastructure;Switzerland;https://www.fundmuenzen.ch/;;;G030;
+G072;Diplomatische Dokumente der Schweiz (Dodis);research infrastructure;Switzerland;https://www.dodis.ch/;;;G030;
+G073;Université de Genève;academic;Switzerland;https://unige.ch/;;G012;;
