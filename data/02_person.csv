@@ -1,6 +1,6 @@
 id;name;orcid;employer;affiliated in;involved in
 P001;Tobias Hodel;https://orcid.org/0000-0002-2071-6407;G002;"G018; G054";"PR002; PR004; PR007"
-P002;Rita Gautschy;https://orcid.org/0000-0002-5470-8720;"G011; G012";;
+P002;Rita Gautschy;https://orcid.org/0000-0002-5470-8720;"G011; G012";G061;
 P003;Peter Fornaro;https://orcid.org/0000-0003-1485-4923;G001;"G011; G018";PR001
 P004;Lukas Rosenthaler;https://orcid.org/0000-0003-1681-4036;G001;;PR005
 P005;Frederic Kaplan;https://orcid.org/0000-0002-6991-5730;G006;;
@@ -9,7 +9,7 @@ P007;Sarah Kenderdine;https://orcid.org/0000-0002-7190-9946;G008;;
 P008;Mathieu Avanzi;https://orcid.org/0000-0002-0688-2310;G017;;
 P009;Francesco Berretta;;G056;;PR007
 P010;Anita Auer;https://orcid.org/0009-0007-6302-5810;G055;G011;
-P011;Elena Chestnova;https://orcid.org/0000-0002-0654-1313;G051;;
+P011;Elena Chestnova;https://orcid.org/0000-0002-0654-1313;G051;G061;
 P012;Rico Sennrich;https://orcid.org/0000-0002-1438-4741;G015;;
 P013;Lucas Burkart;https://orcid.org/0000-0002-9011-5113;G057;;
 P014;Moniek Kuijpers;https://orcid.org/0000-0002-3676-5879;G001;;PR006
@@ -18,9 +18,9 @@ P016;Vera Chiquet;https://orcid.org/0000-0001-5925-2956;G001;"G018; G054";PR001
 P017;Moritz Mähr;https://orcid.org/0000-0002-1367-1618;G057;"G002; G054";
 P018;Elena Spadini;https://orcid.org/0000-0002-4522-2833;G014;G002;
 P019;Yannick Rochat;https://orcid.org/0000-0002-9588-9855;G016;;PR002
-P020;Cristina Grisot;https://orcid.org/0000-0003-0684-4442;"G012; G022";;
+P020;Cristina Grisot;https://orcid.org/0000-0003-0684-4442;"G012; G022";G061;
 P021;Simon Gabay;https://orcid.org/0000-0001-9094-4475;G004;;
-P022;Thomas Hänsli;https://orcid.org/0000-0001-7818-5605;G010;;
+P022;Thomas Hänsli;https://orcid.org/0000-0001-7818-5605;"G010; G060";G061;
 P023;Florian Kräutli;https://orcid.org/0000-0001-9039-0900;G010;;
 P024;Eugen Pfister;https://orcid.org/0000-0003-3422-4697;G027;G002;PR002
 P025;Grégoire Malland;;G052;;
@@ -68,7 +68,7 @@ P066;Philipp Krauer;https://orcid.org/0009-0008-2299-660X;;G054;
 P067;Eliane Kurmann;https://orcid.org/0000-0002-9037-7260;G031;G054;
 P068;Victoria G. D. Landau;https://orcid.org/0000-0002-7682-5709;G057;G054;
 P069;Rudolf Gschwind;;;G001;
-P070;;;;;
+P070;Georg Lutz;;G055;G061;
 P071;;;;;
 P072;;;;;
 P073;;;;;
