@@ -17,7 +17,7 @@ P015;Alassi Sepideh;https://orcid.org/0000-0002-5627-9501;G001;PR004;PR005
 P016;Vera Chiquet;https://orcid.org/0000-0001-5925-2956;G001;"G018; G054";PR001
 P017;Moritz Mähr;https://orcid.org/0000-0002-1367-1618;G057;"G002; G054; G018";
 P018;Elena Spadini;https://orcid.org/0000-0002-4522-2833;G014;G002;
-P019;Yannick Rochat;https://orcid.org/0000-0002-9588-9855;G016;;PR002
+P019;Yannick Rochat;https://orcid.org/0000-0002-9588-9855;G016;G020;PR002
 P020;Cristina Grisot;https://orcid.org/0000-0003-0684-4442;"G012; G022";G061;
 P021;Simon Gabay;https://orcid.org/0000-0001-9094-4475;G004;G018;PR016
 P022;Thomas Hänsli;https://orcid.org/0000-0001-7818-5605;"G010; G060";"G061; PR010; G082";PR009
@@ -66,7 +66,7 @@ P064;Martin Grandjean;https://orcid.org/0000-0003-3184-3943;G016;"G054; G025";PR
 P065;Kaspar Gubler;;G064;G054;
 P066;Philipp Krauer;https://orcid.org/0009-0008-2299-660X;"G016; G069";G054;
 P067;Eliane Kurmann;https://orcid.org/0000-0002-9037-7260;G031;G054;
-P068;Victoria G. D. Landau;https://orcid.org/0000-0002-7682-5709;G057;"G054; G001; G081";
+P068;Victoria G. D. Landau;https://orcid.org/0000-0002-7682-5709;G057;"G054; G001; G081";PR018
 P069;Rudolf Gschwind;;;G001;
 P070;Georg Lutz;https://orcid.org/0000-0001-5851-2955;G055;G061;
 P071;Muriel Heisch;;G010;;
@@ -133,7 +133,7 @@ P131;Marten Düring;https://orcid.org/0000-0001-7411-771X;G070;;PR003
 P132;Emanuela Boros;https://orcid.org/0000-0001-6299-9452;G006;;
 P133;Pauline Isabela Conti;;G006;;PR003
 P134;Manuel Julian Ehrenfeld;;G006;;
-P135;Paul Guhennec;https://orcid.org/0000-0002-5490-5249;G006;G078;
+P135;Paul Guhennec;https://orcid.org/0000-0002-5490-5249;G006;"G078; G021";
 P136;Harm Den Boer;https://orcid.org/0000-0001-6611-9803;G057;;PR008
 P137;Sonja Hildebrand;https://orcid.org/0000-0001-7997-5051;G051;;"PR009; PR010"
 P138;Philip Ursprung;https://orcid.org/0009-0000-6256-8900;G060;;"PR009; PR010"
@@ -176,15 +176,34 @@ P161;"Florence Graezer Bideau
 P162;"Nicolas Mermoud-Ghraichy
 ";https://orcid.org/0000-0001-6563-5136;G005;;
 P163;"Rémi Guillaume Petitpierre
-";https://orcid.org/0000-0001-9138-6727;G005;;
+";https://orcid.org/0000-0001-9138-6727;G005;G021;
 P164;"Héléna Roux
 ";;G005;;
 P165;"Hamest Tamrazyan
 ";https://orcid.org/0000-0001-9630-0195;G005;;
 P166;"Cédric Viaccoz
-";;G005;;
+";https://orcid.org/0000-0001-6825-1082;G005;;
 P167;"Mengke Zhang
 ";https://orcid.org/0000-0002-8036-727X;G005;;
-P168;;;;;
+P168;Sabine R. Huebner;https://orcid.org/0000-0002-3324-5050;G057;;PR018
+P169;Marie Barras;https://orcid.org/0000-0002-1542-3861;"G004; G083";;PR014
+P170;Nicolas Bovet;;G016;G021;
+P171;Ravinithesh Annapureddy;;G059;G021;
+P172;Théo Rochat;;G016;G021;
+P173;Ben Erik Kriesel;;G059;"G021; G008";
+P174;Miguel Almeida Henriques;;G016;"G020; G021";
+P175;Radu Suciu;;G004;;
+P176;Adrien Jeanrenaud;;G004;;PR014
+P177;Rui-Long Monico;;G004;;
+P178;Adélaïde Quenson;;G004;;
+P179;Florence Gariépy;;G004;;
+P180;Sonia Solfrini;;G004;;
+P181;Floriane Goy;;G004;;
+P182;;;;;
+P183;;;;;
+P184;;;;;
+P185;;;;;
+;;;;;
+;;;;;
 ;;;;;
 ;;;;;
