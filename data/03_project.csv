@@ -1,11 +1,11 @@
 id;name;url;start;end;keywords;lead
-PR001;Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA);https://about.participatory-archives.ch/;2021;2025;"Archives; Citizen Science; Anthropology; Design Research; Photography";"G001; G027"
+PR001;Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA);https://data.snf.ch/grants/grant/193788;2021;2025;"Archives; Citizen Science; Anthropology; Design Research; Photography";"G001; G027"
 PR002;Confederatio Ludens: Swiss History of Games, Play and Game Design 1968-2000;https://data.snf.ch/grants/grant/209248;2023;2027;"Game Studies; Design Research; History";"G002; G027"
 PR003;Impresso - Media Monitoring of the Past II. Beyond Borders: Connecting Historical Newspapers and Radio;https://impresso-project.ch/;2023;2027;"Newspapers; HTR";G006
 PR004;Linked Data & Relational Databases: Grounded Knowledge;https://www.dh.unibe.ch/forschung/linked_data__relationale_datenbanken_gewis/index_ger.html;;;"Linked Data; Musicology; Archaeology; Theater Studies";G002
 PR005;SwissBritNet: Swiss-British cultural exchange and knowledge networks 1600-1780;https://data.snf.ch/grants/grant/215254;2023;2027;"Gender Studies; English Literature; History; Linked Data";G001
 PR006;"Shared Reading in the Age of Digitalization: Online Discussions, Face-to-Face Groups and the Role of Absorption in the Promotion of Reading and Well-Being
-";https://data.snf.ch/grants/grant/203293;2022;2027;"Empirical Literary Studies; Medical Humanities; Shared Reading";G001
+(SHARD)";https://data.snf.ch/grants/grant/203293;2022;2027;"Empirical Literary Studies; Medical Humanities; Shared Reading";G001
 PR007;Linked Open Data for the Humanities and Social Sciences (LOD4HSS);https://www.geovistory.org/lod4hss;2022;2024;Linked Data;G002
 PR008;"Mapping the Scriptures in Western Sephardi Literature
 ";https://data.snf.ch/grants/grant/204389;2022;2026;"Theology; Philosophy; Literature";G057
@@ -14,11 +14,13 @@ PR010;"Gottfried Semper: Der Stil. Kritische und kommentierte Ausgabe - Teil 3
 ";https://data.snf.ch/grants/grant/229651;2025;2028;"Architecture; Art History; Linguistics";G060
 PR011;"Swiss National Data and Service Center for the Humanities (DaSCH)
 ";https://data.snf.ch/grants/grant/229650;2025;2028;"History; Theology; Art History; Literature; Theology; Philosophy";G057
-PR012;;;;;;
-PR013;;;;;;
-PR014;;;;;;
-PR015;;;;;;
-PR016;;;;;;
+PR012;The Flow: From Deep-Learning to Digital Analysis and their Role in the Humanities Creating, Evaluating, and Critiquing Workflows for Historical Corpora;https://data.snf.ch/grants/grant/212226;2023;2026;History;G002
+PR013;Ökonomien des Raums. Praktiken, Diskurse und Akteure auf dem Basler Immobilienmarkt (1400-1700);https://data.snf.ch/grants/grant/208093;2022;2026;History;G057
+PR014;Visual Contagions;https://data.snf.ch/grants/grant/192821;2021;2025;"Art History; History";G004
+PR015;"How does a classical hero die in the digital age? Using Sophocles’ Ajax to create a commentary on commentaries
+";https://data.snf.ch/grants/grant/186033;2020;2024;"Ancient History; Classical Studies";G016
+PR016;"The Geographic Horizon of writers
+";https://data.snf.ch/grants/grant/220833;2024;2025;Literature;G004
 PR017;;;;;;
 PR018;;;;;;
 PR019;;;;;;
