@@ -22,10 +22,4 @@ The Python script (`dh_landscape_network.py`) processes these CSV files to creat
 4. **Aggregating Data**: The script also generates a combined CSV (`combined_data.csv`) that contains all relevant information for filtering and further analysis.
 5. **Saving Outputs**: The resulting network visualization is saved as `network.html` in the `docs` folder, which will be used for deployment via GitHub Pages. The combined CSV is also saved in the `docs` folder.
 
-### Deployment on GitHub Pages
-1. **Generate Outputs**: Run the Python script to generate `network.html` and `combined_data.csv` in the `docs` folder.
-2. **Push to GitHub**: Commit and push the changes to the GitHub repository.
-3. **Enable GitHub Pages**: Go to the repository settings on GitHub, and enable GitHub Pages with the source set to the `main` branch and the `/docs` folder.
-4. **Access the Visualization**: Once GitHub Pages is enabled, the interactive visualization will be accessible via `https://username.github.io/repository-name/network.html`.
-
-This process ensures that the latest version of the network visualization is always available online for users to explore.
+The interactive visualization will be accessible via `https://jraemysfa.github.io/dh-landscape-ch/network.html`.
