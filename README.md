@@ -1,5 +1,7 @@
 # Digital Humanities Landscape Switzerland
 
+[![DOI](https://zenodo.org/badge/873575817.svg)](https://doi.org/10.5281/zenodo.14006033)
+
 Digital Humanities Landscape Switzerland (`dh-landscape-ch`) is intended to be an interactive, web-based overview of the Digital Humanities field in Switzerland. It features a network-style visualisation of projects, organisations, and researchers, allowing users to explore connections and filter information based on different criteria. The aim is to foster collaboration and provide insights into the Swiss Digital Humanities community.
 
 This overview is a snapshot of (a surely not complete) DH Landscape in Switzerland as of October 2024. The focus has mainly been on institutes and laboratories that market themselves as being part of Digital Humanities, but DH is a big tent, and surely many people are missing.
@@ -31,7 +33,5 @@ For organisations as employers, DH-related labs or institutes have been used as 
 Pull requests and issues are welcome to help make the network more complete or to correct any mistakes. Please feel free to contribute.
 
 ## Cite this repository
-
-
-[![DOI](https://zenodo.org/badge/873575817.svg)](https://doi.org/10.5281/zenodo.14006033)
+Raemy, J. A. (2024). Digital Humanities Landscape Switzerland (Version 0.9.0) [Computer software]. https://doi.org/10.5281/zenodo.14006033
 
