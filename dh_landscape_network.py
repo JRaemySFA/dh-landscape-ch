@@ -76,6 +76,10 @@ for _, row in person_data.iterrows():
 # Add project nodes and edges to leading groups
 for _, row in project_data.iterrows():
     title = f"<b>Keywords:</b> {row['keywords']}"
+    if pd.notna(row['start']) and pd.notna(row['end']):
+        start_year = int(row['start'])
+        end_year = int(row['end'])
+        title += f"<br><b>Timeline:</b> {start_year} - {end_year}"
     if pd.notna(row['url']):
         title += f"<br><a href='{row['url']}' target='_blank'>Project Link</a>"
     G.add_node(row['id'], label=row['name'], type='project', title=title, color='lightcoral')
@@ -101,10 +105,16 @@ for _, row in group_data.iterrows():
 net = Network(notebook=False, height='100vh', width='100vw', bgcolor='#ffffff', font_color='black', directed=True)
 net.from_nx(G)
 
-# Set node size based on degree (logarithmic scaling with increased factor)
+# Set node size based on degree (logarithmic scaling with increased factor), excluding affiliation links for people
 for node in net.nodes:
-    degree = G.degree(node['id'])
-    node['size'] = math.log(degree + 1) * 20  # Increased scaling factor for better visualization
+    node_id = node['id']
+    if node['type'] == 'person':
+        # Count only non-affiliation links for people
+        degree = sum(1 for _, _, d in G.out_edges(node_id, data=True) if d['label'] != 'affiliated with') + G.in_degree(node_id)
+    else:
+        degree = G.degree(node_id)
+    node['size'] = math.log(degree + 1) * 30  # Increased scaling factor for better visualization
+
 
 # Configure physics for better visualisation
 net.set_options('''var options = {

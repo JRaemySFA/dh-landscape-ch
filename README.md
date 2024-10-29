@@ -21,6 +21,9 @@ The Python script (`dh_landscape_network.py`) processes these CSV files to creat
 
 The interactive visualization is accessible via [https://jraemysfa.github.io/dh-landscape-ch/](https://jraemysfa.github.io/dh-landscape-ch/).
 
+## Node Size Explanation
+The size of each node in the network graph is proportional to the number of connections (inbound and outbound edges) associated with it. The size calculation uses a logarithmic scale to ensure that nodes with many connections do not overwhelm the visualization. For **person nodes**, only non-affiliation connections (e.g., projects or employers) are considered to determine the size. This helps to highlight key contributors, institutions, and projects in the Digital Humanities landscape.
+
 ## Note on Organisations
 For organisations as employers, DH-related labs or institutes have been used as employers when they existed. If not, the name of the parent organisation (e.g., university) has been used. Labs and departments are linked to their parent organisations in the network.
 
