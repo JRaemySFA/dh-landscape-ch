@@ -29,3 +29,9 @@ For organisations as employers, DH-related labs or institutes have been used as 
 
 ## Contributing
 Pull requests and issues are welcome to help make the network more complete or to correct any mistakes. Please feel free to contribute.
+
+## Cite this repository
+
+
+[![DOI](https://zenodo.org/badge/873575817.svg)](https://doi.org/10.5281/zenodo.14006033)
+
