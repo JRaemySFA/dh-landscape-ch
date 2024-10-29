@@ -33,5 +33,5 @@ For organisations as employers, DH-related labs or institutes have been used as 
 Pull requests and issues are welcome to help make the network more complete or to correct any mistakes. Please feel free to contribute.
 
 ## Cite this repository
-Raemy, J. A. (2024). Digital Humanities Landscape Switzerland (Version 0.9.0) [Computer software]. https://doi.org/10.5281/zenodo.14006033
+Raemy, J. A. (2024). Digital Humanities Landscape Switzerland (Version 0.9.1) [Computer software]. https://doi.org/10.5281/zenodo.14006033
 

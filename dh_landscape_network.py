@@ -14,7 +14,7 @@ G = nx.DiGraph()
 
 # Add group nodes
 for _, row in group_data.iterrows():
-    title = f"<b>Type:</b> {row['type']}<br><b>Focus:</b> {row['focus']}"
+    title = f"<b>{row['name']}</b><br><b>Type:</b> {row['type']}<br><b>Focus:</b> {row['focus']}"
     if pd.notna(row['url']):
         title += f"<br><a href='{row['url']}' target='_blank'>Website</a>"
     G.add_node(row['id'], label=row['name'], type='group', title=title, color='lightblue')
@@ -49,7 +49,7 @@ for _, row in person_data.iterrows():
     project_str = '; '.join(project_names)
 
     # Create title for person node
-    title = f"<b>Employer:</b> {employer_str}"
+    title = f"<b>{row['name']}</b><br><b>Employer:</b> {employer_str}"
     if affiliation_str:
         title += f"<br><b>Affiliations:</b> {affiliation_str}"
     if project_str:
@@ -75,7 +75,7 @@ for _, row in person_data.iterrows():
 
 # Add project nodes and edges to leading groups
 for _, row in project_data.iterrows():
-    title = f"<b>Keywords:</b> {row['keywords']}"
+    title = f"<b>{row['name']}</b><br><b>Keywords:</b> {row['keywords']}"
     if pd.notna(row['start']) and pd.notna(row['end']):
         start_year = int(row['start'])
         end_year = int(row['end'])
