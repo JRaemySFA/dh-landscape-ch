@@ -22,4 +22,4 @@ The Python script (`dh_landscape_network.py`) processes these CSV files to creat
 4. **Aggregating Data**: The script also generates a combined CSV (`combined_data.csv`) that contains all relevant information for filtering and further analysis.
 5. **Saving Outputs**: The resulting network visualization is saved as `network.html` in the `docs` folder, which will be used for deployment via GitHub Pages. The combined CSV is also saved in the `docs` folder.
 
-The interactive visualization will be accessible via `https://jraemysfa.github.io/dh-landscape-ch/network.html`.
+The interactive visualization will be accessible via https://jraemysfa.github.io/dh-landscape-ch/.
